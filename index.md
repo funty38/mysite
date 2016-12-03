@@ -4,7 +4,7 @@ layout: default
 
 ![avatar](avatar.jpg)
 
-# Kirby
+# Rebecca Liao
 
 A Nintendo Character
 
